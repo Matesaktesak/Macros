@@ -1,4 +1,7 @@
-﻿; If your using this script on its own, uncomment the next line
+; This script makes Spotify pause playback when PTT in Discord is activated...
+; ... and if its not playing, it won't start it out of the blue.
+
+; If your using this script on its own, uncomment the next line
 ; I use Break/Pause as the PTT key in Discord
 
 ;~$Pause:: PTT() ; The $ is there just as a percaution from previous versions of the script which were triggering themselfs
